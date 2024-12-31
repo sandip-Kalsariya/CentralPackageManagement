@@ -161,7 +161,7 @@ If you have any questions or need further assistance with securing your .NET Co
 
 ✨ Github: https://github.com/sandip-Kalsariya
 
-✨ Medium: https://medium.com/@sandipkalasariya555
+✨ Medium: https://medium.com/@sandip-kalasariya
 
 Your engagement helps us grow and improve. Don't hesitate to share your thoughts and insights in the comments below. If you found this guide helpful, please share it with your network and give it a clap 👏
 
