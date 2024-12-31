@@ -1,0 +1,22 @@
+<Project>
+
+  <PropertyGroup>
+    <!-- Set the Manage Package Versions Centrally for all projects -->
+     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    <!-- Set the default TargetFramework for all projects -->
+    <TargetFramework>net6.0</TargetFramework>
+    <!-- Enable Nullable reference types -->
+    <Nullable>enable</Nullable>
+    <!-- Treat warnings as errors -->
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Define package versions here -->
+    <PackageVersion  Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageVersion Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageVersion Include="Serilog" Version="2.12.0" />
+  </ItemGroup>
+
+</Project>
